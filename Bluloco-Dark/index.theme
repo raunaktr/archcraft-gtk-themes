@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Bluloco-Dark
+Comment=This config file is inspired by the Bluloco Dark VSCode theme. The blue hues and the subtle dark colors make it an ideal go-to theme for the night.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Bluloco-Dark
+GtkTheme=Bluloco-Dark
+IconTheme=Bluloco-Dark
+MetacityTheme=Bluloco-Dark
